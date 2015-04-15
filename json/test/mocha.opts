@@ -1,0 +1,4 @@
+test/server
+--recursive
+-R nyan
+--require test/server/support/coverage
